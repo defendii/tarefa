@@ -39,7 +39,7 @@ nav .menu_mobile{
     height: calc(100vh - 100px);
     position: absolute;
     top: 100px;
-    left: 0%;
+    left: -100%;
     transition: 0.4s;
     /* display: none; */
 
