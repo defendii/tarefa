@@ -18,6 +18,7 @@ nav {
 }
 
 nav .logo{
+    margin: 10px;
     font-size: 1.5rem;
     color: white;
 }
@@ -27,9 +28,11 @@ nav .menu_desktop ul{
     display: flex;
     column-gap: 10px;
     color: white;
+    margin: 10px;
 }
 
 nav .menu_icon img {
+    margin: 10px;
     width: 30px;
 }
 
@@ -60,6 +63,10 @@ nav .menu_mobile ul{
 
 .menu_desktop{
     display: none;
+}
+
+main{
+    margin: 10px;
 }
 
 /* DESKTOP */
